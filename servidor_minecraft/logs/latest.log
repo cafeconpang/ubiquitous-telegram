@@ -1,10 +1,10 @@
-[21:12:20] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
-[21:12:21] [main/WARN]: Warnings were found!
+[23:31:29] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
+[23:31:29] [main/WARN]: Warnings were found!
  - Mod 'Dynamic Lights' (dynamiclights) 1.8.5+mod recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
  - Mod 'Dynamic Lights' (dynamiclights) 1.8.5+mod recommends any version of modmenu-badges-lib, which is missing!
 	 - You should install any version of modmenu-badges-lib for the optimal experience.
-[21:12:21] [main/INFO]: Loading 85 mods:
+[23:31:29] [main/INFO]: Loading 85 mods:
 	- bettercombat 2.1.3+1.21.1
 	- betterdungeons 1.21.1-Fabric-5.1.4
 	   \-- org_reflections_reflections 0.10.2
@@ -117,127 +117,67 @@
 	- yungsapi 1.21.1-Fabric-5.1.3
 	   |-- org_javassist_javassist 3.29.2-GA
 	   \-- org_reflections_reflections 0.10.2
-[21:12:21] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/ubiquitous-telegram/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[21:12:21] [main/INFO]: Compatibility level set to JAVA_17
-[21:12:21] [main/INFO]: Compatibility level set to JAVA_21
-[21:12:23] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[21:12:34] [main/INFO]: Reflections took 57 ms to scan 1 urls, producing 1 keys and 3 values
-[21:12:34] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 3 values
-[21:12:34] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[21:12:34] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[21:12:34] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[21:12:34] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[21:12:34] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
-[21:12:34] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
-[21:12:34] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[21:12:34] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
-[21:12:34] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[21:12:34] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[21:12:34] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
-[21:12:34] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
-[21:12:34] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
-[21:12:34] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
-[21:12:34] [main/INFO]: Biolith for Fabric is initializing...
-[21:12:34] [main/INFO]: Enabling Cinderscapes' Biolith worldgen module.
-[21:12:34] [main/INFO]: [Dynamic Lights] MidnightLib detected!
-[21:12:34] [main/INFO]: [Dynamic Lights] Registering server started event...
-[21:12:34] [main/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
-[21:12:35] [main/ERROR]: No data fixer registered for 
-[21:12:36] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
-[21:12:36] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
-[21:12:36] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
-[21:12:36] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
-[21:12:36] [main/INFO]: Enabling Traverse's Biolith worldgen module.
-[21:12:36] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 3 values
-[21:12:36] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
-[21:12:36] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:12:39] [main/INFO]: Loaded 1528 recipes
-[21:12:39] [main/INFO]: Loaded 1646 advancements
-[21:12:39] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: c:crops/nether_wart, c:crops/wheat
-[21:12:40] [main/INFO]: Applied 120 biome modifications to 60 of 75 new biomes in 17.89 ms
-[21:12:40] [Server thread/INFO]: Encoded Weapon Attribute registry size (with package overhead): 2331 bytes (in 1 string chunks with the size of 10000)
-[21:12:40] [Server thread/INFO]: [puffish_skills] Mod configuration loaded successfully!
-[21:12:40] [Server thread/INFO]: [puffish_skills] Data pack `puffish_skills` loaded successfully!
-[21:12:40] [Server thread/INFO]: Starting minecraft server version 1.21
-[21:12:40] [Server thread/INFO]: Loading properties
-[21:12:40] [Server thread/INFO]: Default game type: SURVIVAL
-[21:12:40] [Server thread/INFO]: Generating keypair
-[21:12:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:12:40] [Server thread/INFO]: Using epoll channel type
-[21:12:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:12:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:12:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:12:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:12:41] [Server thread/INFO]: Preparing level "world"
-[21:12:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:12:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:12:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:12:47] [Server thread/INFO]: Time elapsed: 784 ms
-[21:12:47] [Server thread/INFO]: Done (6.177s)! For help, type "help"
-[21:12:47] [Server thread/INFO]: [Dynamic Lights] Sending global config to world ...
-[21:13:16] [Server thread/INFO]: cafeconpang[/127.126.147.44:41227] logged in with entity id 3 at (69.30000001192093, 62.0, -207.69999998807907)
-[21:13:16] [Server thread/INFO]: Loading config from file...
-[21:13:16] [Server thread/INFO]: cafeconpang joined the game
-[21:20:11] [Server thread/INFO]: cafeconpang lost connection: Disconnected
-[21:20:11] [Server thread/INFO]: cafeconpang left the game
-[21:21:54] [Server thread/INFO]: cafeconpang[/127.126.147.44:37011] logged in with entity id 1210 at (60.19001674683729, 63.0, -205.22628523217512)
-[21:21:54] [Server thread/INFO]: Loading config from file...
-[21:21:54] [Server thread/INFO]: cafeconpang joined the game
-[21:22:10] [Server thread/INFO]: naim1234567[/127.126.147.44:36629] logged in with entity id 1407 at (-250.5, 66.0, -82.5)
-[21:22:10] [Server thread/INFO]: Loading config from file...
-[21:22:10] [Server thread/INFO]: naim1234567 joined the game
-[21:22:10] [Server thread/INFO]: [cafeconpang: Set the time to 1000]
-[21:22:28] [Server thread/INFO]: [cafeconpang: Set the weather to clear]
-[21:23:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-248, y=67, z=-77}
-[21:23:49] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=-249, y=67, z=-76}
-[21:23:55] [Server thread/INFO]: [cafeconpang: Teleported 2 entities to cafeconpang]
-[21:26:10] [Server thread/INFO]: naim1234567 is incapacitated!
-[21:26:10] [Server thread/INFO]: [cafeconpang: Killed naim1234567]
-[21:26:30] [Server thread/INFO]: naim1234567 has been revived!
-[21:28:22] [Server thread/INFO]: naim1234567 has made the advancement [Stone Age]
-[21:28:36] [Server thread/INFO]: naim1234567 has made the advancement [Getting an Upgrade]
-[21:29:02] [Server thread/INFO]: [Not Secure] <cafeconpang> va
-[21:34:58] [Server thread/INFO]: naim1234567 is incapacitated!
-[21:34:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=39, y=63, z=-197} class_2338{x=37, y=63, z=-198}
-[21:35:09] [Server thread/INFO]: naim1234567 has been revived!
-[21:35:59] [Server thread/INFO]: naim1234567 has made the advancement [Monster Hunter]
-[21:38:55] [Server thread/INFO]: naim1234567 is incapacitated!
-[21:39:04] [Server thread/INFO]: cafeconpang is incapacitated!
-[21:39:20] [Server thread/INFO]: naim1234567 was slain by Zombie
-[21:39:30] [Server thread/INFO]: cafeconpang was slain by Zombie
-[21:40:19] [Server thread/INFO]: [cafeconpang: Teleported cafeconpang to 65.500000, 64.500000, -209.500000]
-[21:40:29] [Server thread/INFO]: [cafeconpang: Teleported 2 entities to cafeconpang]
-[21:41:16] [Server thread/INFO]: naim1234567 is incapacitated!
-[21:41:42] [Server thread/INFO]: naim1234567 has been revived!
-[21:47:38] [Server thread/INFO]: [cafeconpang: Teleported cafeconpang to -243.500000, 60.500000, -150.500000]
-[21:48:40] [Server thread/INFO]: naim1234567 has made the advancement [Acquire Hardware]
-[21:52:06] [Server thread/INFO]: naim1234567 has made the advancement [Hot Stuff]
-[21:54:09] [Server thread/INFO]: naim1234567 is incapacitated!
-[21:54:25] [Server thread/INFO]: naim1234567 has been revived!
-[21:55:17] [Server thread/INFO]: [cafeconpang: Gave 12 [Air] to 2]
-[21:57:04] [Server thread/INFO]: cafeconpang is incapacitated!
-[21:57:22] [Server thread/INFO]: cafeconpang has been revived!
-[21:57:30] [Server thread/INFO]: cafeconpang is incapacitated!
-[21:57:48] [Server thread/INFO]: cafeconpang has been revived!
-[21:58:29] [Server thread/INFO]: naim1234567 has made the advancement [Take Aim]
-[21:58:30] [Server thread/INFO]: cafeconpang is incapacitated!
-[21:58:48] [Server thread/INFO]: cafeconpang has been revived!
-[21:59:05] [Server thread/INFO]: [cafeconpang: naim1234567 now has 5 incapacitations until death]
-[21:59:05] [Server thread/INFO]: [cafeconpang: cafeconpang now has 5 incapacitations until death]
-[21:59:29] [Server thread/INFO]: [cafeconpang: naim1234567 now has 0 incapacitations until death]
-[21:59:29] [Server thread/INFO]: [cafeconpang: cafeconpang now has 0 incapacitations until death]
-[22:00:31] [Server thread/INFO]: cafeconpang was shot by Skeleton
-[22:01:20] [Server thread/INFO]: [cafeconpang: naim1234567 has 0 incapacitations until death]
-[22:01:20] [Server thread/INFO]: [cafeconpang: cafeconpang has 3 incapacitations until death]
-[22:01:37] [Server thread/INFO]: [cafeconpang: naim1234567 now has 10 ticks until they next bleed out]
-[22:01:37] [Server thread/INFO]: [cafeconpang: cafeconpang now has 10 ticks until they next bleed out]
-[22:02:04] [Server thread/INFO]: [cafeconpang: Server incapacitated configuration files reloaded.]
-[22:02:19] [Server thread/INFO]: [cafeconpang: naim1234567 has 0 incapacitations until death]
-[22:02:19] [Server thread/INFO]: [cafeconpang: cafeconpang has 3 incapacitations until death]
-[22:02:47] [Server thread/INFO]: [cafeconpang: naim1234567 now has 5 incapacitations until death]
-[22:02:47] [Server thread/INFO]: [cafeconpang: cafeconpang now has 5 incapacitations until death]
-[22:02:59] [Server thread/INFO]: [cafeconpang: Teleported cafeconpang to 66.500000, 63.500000, -209.500000]
-[22:03:34] [Server thread/INFO]: cafeconpang lost connection: Disconnected
-[22:03:34] [Server thread/INFO]: cafeconpang left the game
-[22:14:13] [Server thread/INFO]: naim1234567 lost connection: Disconnected
-[22:14:13] [Server thread/INFO]: naim1234567 left the game
+[23:31:29] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/ubiquitous-telegram/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[23:31:29] [main/INFO]: Compatibility level set to JAVA_17
+[23:31:29] [main/INFO]: Compatibility level set to JAVA_21
+[23:31:30] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[23:31:38] [main/INFO]: Reflections took 38 ms to scan 1 urls, producing 1 keys and 3 values
+[23:31:38] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 3 values
+[23:31:38] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[23:31:38] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[23:31:38] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+[23:31:38] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[23:31:38] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
+[23:31:38] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 3 values
+[23:31:38] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+[23:31:38] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[23:31:38] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[23:31:38] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[23:31:38] [main/INFO]: Reflections took 3 ms to scan 1 urls, producing 1 keys and 2 values
+[23:31:38] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+[23:31:38] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[23:31:38] [main/INFO]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 1 values
+[23:31:38] [main/INFO]: Biolith for Fabric is initializing...
+[23:31:38] [main/INFO]: Enabling Cinderscapes' Biolith worldgen module.
+[23:31:38] [main/INFO]: [Dynamic Lights] MidnightLib detected!
+[23:31:38] [main/INFO]: [Dynamic Lights] Registering server started event...
+[23:31:38] [main/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[23:31:38] [main/ERROR]: No data fixer registered for 
+[23:31:39] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[23:31:39] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[23:31:39] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[23:31:39] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[23:31:39] [main/INFO]: Enabling Traverse's Biolith worldgen module.
+[23:31:39] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[23:31:39] [main/INFO]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+[23:31:39] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:31:41] [main/INFO]: Loaded 1528 recipes
+[23:31:41] [main/INFO]: Loaded 1646 advancements
+[23:31:41] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: c:crops/nether_wart, c:crops/wheat
+[23:31:42] [main/INFO]: Applied 120 biome modifications to 60 of 75 new biomes in 16.63 ms
+[23:31:42] [Server thread/INFO]: Encoded Weapon Attribute registry size (with package overhead): 2331 bytes (in 1 string chunks with the size of 10000)
+[23:31:42] [Server thread/INFO]: [puffish_skills] Mod configuration loaded successfully!
+[23:31:42] [Server thread/INFO]: [puffish_skills] Data pack `puffish_skills` loaded successfully!
+[23:31:42] [Server thread/INFO]: Starting minecraft server version 1.21
+[23:31:42] [Server thread/INFO]: Loading properties
+[23:31:42] [Server thread/INFO]: Default game type: SURVIVAL
+[23:31:42] [Server thread/INFO]: Generating keypair
+[23:31:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:31:42] [Server thread/INFO]: Using epoll channel type
+[23:31:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:31:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:31:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:31:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:31:42] [Server thread/INFO]: Preparing level "world"
+[23:31:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:31:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:31:46] [Server thread/INFO]: Time elapsed: 488 ms
+[23:31:46] [Server thread/INFO]: Done (4.452s)! For help, type "help"
+[23:31:46] [Server thread/INFO]: [Dynamic Lights] Sending global config to world ...
+[23:31:55] [Server thread/INFO]: cafeconpang[/127.126.147.44:55991] logged in with entity id 4 at (64.68601370018251, 63.0, -210.63053518749552)
+[23:31:55] [Server thread/INFO]: Loading config from file...
+[23:31:55] [Server thread/INFO]: cafeconpang joined the game
+[23:32:33] [Server thread/INFO]: [cafeconpang: Set own game mode to Creative Mode]
+[23:33:54] [Server thread/INFO]: cafeconpang has reached the goal [Sky's the Limit]
+[23:36:13] [Server thread/INFO]: cafeconpang lost connection: Disconnected
+[23:36:13] [Server thread/INFO]: cafeconpang left the game
